@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
   s.add_dependency('rspec', '>= 2.5.0')
   s.add_dependency('mocha', '>= 0.9.12')
   s.add_dependency('fakeweb', '>= 1.3.0')
+  
 end
